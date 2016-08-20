@@ -2,7 +2,6 @@
 # as compared to Scikit-Learn's SVM
 #
 
-
 import sys
 import os
 import numpy as np
